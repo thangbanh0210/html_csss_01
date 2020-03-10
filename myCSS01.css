@@ -1,0 +1,49 @@
+#container{
+    background-color: skyblue;
+    margin: 0px auto;
+    width: 970px;
+    padding: 30px;
+}
+    .header {
+        display: inline-block;
+        font-family: sans-serif;
+        
+    }
+    .header h4{
+        color: white;
+        margin: 0px 0px 40px 250px;
+        font-family: monospace;
+        font-size: 15px;
+    }
+    .header h1{
+        margin: 0px 0px 0px 330px;
+        padding: 10px;
+    }
+    .linkBar {
+        min-height: 50px;
+        padding: 0px 0px 0px 10px;
+        margin-left: 145px;
+    }
+    .linkBar a {
+        display: inline-block;
+        vertical-align: middle;
+        font-size: 15px;
+        padding: 5px;
+        margin: 5px;
+        color: black;
+        background-color: rgb(212, 248, 158);
+        border-radius: 5px;
+        border: solid green;
+    }
+    .bodyDiv {
+        background-color: white;
+        border-radius: 10px;
+        border: solid rgb(5, 98, 134);
+        padding: 30px;
+    }
+    .bodyDiv p{
+        width: 600px;
+        display: inline-block;
+        vertical-align: top;
+        margin: 0px 0px 0px 10px;
+    }
